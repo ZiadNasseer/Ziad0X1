@@ -6,3 +6,19 @@ This tool is made for education purpose only, the author is not responsible for 
 * Kali Linux, Ubuntu, Debian, Termux (proot-distro: Ubuntu)
 ```bash
 git clone https://github.com/ZiadNasseer/Ziad0X1 && cd Ziad0X1  && sudo bash install.sh && python ziad.py
+
+ print(w+d+"  ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠔⠂⠀⠀⠀⠀⠒⢤⡀⠀⠀⠀⠀⠀⠀⠀")⠀⠀⠀
+⠀print(w+d+" ⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠈⠛⣷⡄⠀⠀⠀⠀⠀⠀⠀")⠀
+ print(w+d+"⠀⠀⠀⠀⠀⠀⠀⢠⣾⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀⠀")⠀
+⠀print(w+d+" ⠀⠀⠀⠀⠀⠀⣾⣿⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀")⠀
+⠀print(w+d+" ⠀⠀⠀⠀⠀⠀⣿⣿⣇⠀⣀⣤⣴⣶⣶⣶⣶⣤⣀⠀⢠⣿⣿⡇⠀⠀⠀⠀⠀")⠀
+⠀print(w+d+" ⠀⠀⠀⠀⠀⠀⢿⣿⣿⣾⣿⡿⠛⠉⠉⠉⠛⠻⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀")
+ print(w+d+"⠀ ⠀⢀⣠⣶⣾⣿⣿⣿⣿⣿⣶⣤⣀⣀⣀⣠⣴⣾⣿⣿⣿⣿⣷⣶⣤⡀⠀⠀⠀")
+ print(w+d+"⠀⠀⣴⣿⣿⠿⠟⢻⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⡿⣿⣟⠻⠿⢿⣿⣦⡀⠀ ")
+ print(w+d+"⠀⣾⡿⠋⠀⠀⠀⢸⣿⡇⠈⠛⣿⣿⣗⡀⢈⣿⣿⠟⠉⠀⣿⣿⠀⠀⠀⠈⠻⣷⡀"':::'"+w+b+"/@@@ \\    "+w+"'"+r+"Beware of Ransomware"+b+w+"'") 
+ print(w+d+"⣸⠏⠀⠀⠀⠀⠀⠸⣿⣧⠀⠀⠈⣿⣿⣿⣿⣿⠃⠀⠀⣼⣿⡯⠀⠀⠀⠀⠀⠘⣇      "+d+" by ✔ niko.nikoツ"+w)  
+ print(w+d+"⣹⠀⠀⠀⠀⠀⠀⠀⠹⣿⣷⡀⠀⢸⣿⣿⣿⡇⠀⢀⣴⣿⡟⠀⠀⠀⠀⠀⠀⠀⢿ ")
+ print(w+d+"⠙⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⣿⣷⢼⣿⣿⣿⣇⣾⣿⡿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠛ ")
+ print(w+d+"  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢹⣿⣿⣿⣿⣿⣏⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ")
+⠀print(w+d+"   ⢄⡀⠀⠀⠀⠀⠀⣠⣴⣿⣿⡿⠛⢿⣿⣿⣷⣄⠀⠀⠀⠀⠀⢀⡠⠄⠀⠀ ")
+⠀print(w+d+"⠀   ⠈⠛⠲⠶⠾⠿⠿⠿⠛⠉⠀⠀⠀⠈⠛⠻⠿⠿⠷⠶⠶⠛⠉⠀⠀⠀⠀"+w)
